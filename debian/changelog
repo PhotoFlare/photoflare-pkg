@@ -1,0 +1,51 @@
+photoflare (1.5.8.1-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Update d/copyright: add license of io.photoflare.photoflare.appdata.xml.
+
+ -- Dylan Aïssi <daissi@debian.org>  Wed, 10 Apr 2019 09:15:03 +0200
+
+photoflare (1.5.8-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Update d/copyright.
+
+ -- Dylan Aïssi <daissi@debian.org>  Sat, 16 Mar 2019 15:59:44 +0100
+
+photoflare (1.5.7-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Remove ftbfs_hurd.patch: upstream applied.
+  * Bump Standards-Version: 4.3.0 (no changes needed).
+
+ -- Dylan Aïssi <daissi@debian.org>  Tue, 19 Feb 2019 07:54:57 +0100
+
+photoflare (1.5.6.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Add patch to fix FTBFS on Hurd.
+
+ -- Dylan Aïssi <daissi@debian.org>  Thu, 06 Dec 2018 19:39:11 +0100
+
+photoflare (1.5.6-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Dylan Aïssi <daissi@debian.org>  Sat, 24 Nov 2018 15:25:16 +0100
+
+photoflare (1.5.5.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update my email address.
+  * Remove all patches: upstream applied.
+  * AppStream file and pixmaps icon are now installed by upstream.
+  * Add qt5-image-formats-plugins to Depends.
+  * Bump Standards-Version: 4.2.1 (no changes needed).
+
+ -- Dylan Aïssi <daissi@debian.org>  Wed, 07 Nov 2018 07:21:33 +0100
+
+photoflare (1.5.4-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #901871, LP: #1711644)
+
+ -- Dylan Aïssi <bob.dybian@gmail.com>  Mon, 25 Jun 2018 18:28:05 +0200
