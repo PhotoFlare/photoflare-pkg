@@ -1,4 +1,10 @@
-photoflare (1.5.8.1-1) experimental; urgency=medium
+photoflare (1.5.9-0) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Dylan Aïssi <daissi@debian.org>  Mon, 27 May 2019 14:44:03 +0200
+ 
+ photoflare (1.5.8.1-1) experimental; urgency=medium
 
   * New upstream release.
   * Update d/copyright: add license of io.photoflare.photoflare.appdata.xml.
