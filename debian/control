@@ -12,6 +12,7 @@ Vcs-Git: https://github.com/PhotoFlare/photoflare-pkg.git
 Homepage: http://photoflare.io/
 
 Package: photoflare
+Version: 1.5.9
 Architecture: any
 Depends: ${misc:Depends},
          ${shlibs:Depends},
