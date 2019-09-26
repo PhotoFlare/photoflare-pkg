@@ -1,6 +1,7 @@
 photoflare (1.6.0-0) unstable; urgency=medium
 
   * New upstream release.
+  * Add libomp-dev to Depends.
 
  -- Dylan Aïssi <daissi@debian.org>  Wed, 25 Sep 2019 22:03:00 +0200
 
