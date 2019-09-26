@@ -1,4 +1,4 @@
-photoflare (1.6.0-0) unstable; urgency=medium
+photoflare (1.6.0-1) unstable; urgency=medium
 
   * New upstream release.
   * Add libomp-dev to Depends.
