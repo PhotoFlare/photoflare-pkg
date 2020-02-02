@@ -6,7 +6,7 @@ Fixed zoom out transition from autozoom to step zoom.
 Fixed zoom in transition from autozoom to step zoom.
 Fixed building on OpenMandriva Cooker with clang and lld linker.
 
--- Dylan Aïssi <daissi@debian.org>  Sunday, 26 Jan 2020 17:00:00 +0200
+-- Dylan Aïssi <daissi@debian.org>  Sun, 26 Jan 2020 17:00:00 +0200
 
 photoflare (1.6.1-0) unstable; urgency=medium
 
