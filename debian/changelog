@@ -1,3 +1,13 @@
+photoflare (1.6.3-0) unstable; urgency=medium
+
+  * New upstream release.
+  * Released on Flathub: https://flathub.org/apps/details/io.photoflare.photoflare
+  * Updated Czech (cs) translation.
+  * Updated German (de) translation.
+  * Added oars rating (required for flathub)
+
+-- Dylan Aïssi <daissi@debian.org>  Sun, 26 Jan 2020 17:00:00 +0200
+
 photoflare (1.6.2-0) unstable; urgency=medium
 
   * New upstream release.
