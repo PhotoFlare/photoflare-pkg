@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 10),
 Standards-Version: 4.3.0
 Vcs-Browser: https://github.com/PhotoFlare/photoflare-pkg
 Vcs-Git: https://github.com/PhotoFlare/photoflare-pkg.git
-Homepage: http://photoflare.io/
+Homepage: https://photoflare.io/
 
 Package: photoflare
 Architecture: any
@@ -18,7 +18,7 @@ Depends: ${misc:Depends},
          ${shlibs:Depends},
          qt5-image-formats-plugins
 Description: Simple but powerful Image Editor
- PhotoFlare is an effort to bring quick, simple but powerful image editing to
+ Photoflare is an effort to bring quick, simple but powerful image editing to
  the masses. PhotoFlare is inspired by the image editor PhotoFiltre which is
- available only on another OS. PhotoFlare is designed for beginner users with
+ available only on another OS. Photoflare is designed for beginner users with
  the aim to give them a tool easy to learn and use.
