@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 10),
 Standards-Version: 4.3.0
 Vcs-Browser: https://github.com/PhotoFlare/photoflare-pkg
 Vcs-Git: https://github.com/PhotoFlare/photoflare-pkg.git
-Homepage: https://photoflare.io/
+Homepage: https://photoflare.io
 
 Package: photoflare
 Architecture: any
