@@ -7,6 +7,7 @@ Build-Depends: debhelper (>= 10),
                libomp-dev,
                qtbase5-dev (>= 5.6),
                qttools5-dev-tools
+               openssl
 Standards-Version: 4.3.0
 Vcs-Browser: https://github.com/PhotoFlare/photoflare-pkg
 Vcs-Git: https://github.com/PhotoFlare/photoflare-pkg.git
