@@ -4,7 +4,7 @@ Upstream-Contact: Dylan Coakley <info at photoflare.io>
 Source: https://github.com/PhotoFlare/photoflare/
 
 Files: *
-Copyright: 2015-2020 Dylan Coakley
+Copyright: 2015-2023 Dylan Coakley
 License: GPL-3+
 
 Files: external/qt-solutions/common.pri
