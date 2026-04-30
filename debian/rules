@@ -2,7 +2,8 @@
 
 export DEB_BUILD_MAINT_OPTIONS = hardening=+all
 
-export QT_SELECT=qt5
-
 %:
 	dh $@
+
+override_dh_auto_configure:
+	qmake6 -makefile PREFIX=/usr
