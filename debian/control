@@ -18,6 +18,7 @@ Architecture: any
 Depends: ${misc:Depends},
          ${shlibs:Depends},
          qt6-image-formats-plugins
+Recommends: gmic
 Description: Simple but powerful Image Editor
  Photoflare is an effort to bring quick, simple but powerful image editing to
  the masses. PhotoFlare is inspired by the image editor PhotoFiltre which is
